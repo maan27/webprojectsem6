@@ -37,6 +37,7 @@ Contributions to Photo Resizer are welcome! If you encounter any bugs, have sugg
 
 [Abdur](https://github.com/abdfury) - GitHub
 [Maan](https://github.com/maan27) - GitHub
+[Harsh](https://github.com/harshpatel124) - GitHub
 
 **License:**
 
