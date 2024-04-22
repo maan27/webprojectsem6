@@ -1,5 +1,9 @@
 # Photo Resizer
 
+**Link:** 
+
+https://photo-resizer-web-sem-6.vercel.app/
+
 **Description:**
 
 Photo Resizer is a web-based tool designed to resize images quickly and easily. It allows users to upload an image file, specify dimensions and quality, and then resize the image accordingly. With an intuitive interface and robust features, Photo Resizer simplifies the process of resizing images for various purposes.
